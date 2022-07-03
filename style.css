@@ -1,5 +1,6 @@
 body {
     font-family: 'Finlandica', sans-serif;
+    margin: 0px;
 }
 
 h1 {
@@ -30,4 +31,10 @@ section {
     background-image: linear-gradient(orange, salmon);
     font-weight: 700;
     color: white;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
 }
